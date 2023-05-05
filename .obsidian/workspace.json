@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Hidden Note.md",
+                "file": "_notes/Public/Welcome to the garden.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Hidden Note.md",
+                "file": "_notes/Public/Welcome to the garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Hidden Note.md",
+                "file": "_notes/Public/Welcome to the garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Hidden Note.md"
+                "file": "_notes/Public/Welcome to the garden.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "d670762e03bc170e",
   "lastOpenFiles": [
+    "_notes/Public/Markdown Rendered.md",
+    "_notes/Public/Hidden Note.md",
+    "_notes/Public/Credits.md",
+    "_notes/Public/수업 중 질문 답변.md",
     "pages/posts.md",
     "pages/notes.md",
     "pages/lists.md",
@@ -155,11 +159,7 @@
     "_posts/2020-03-01-features.md",
     "_posts/2020-03-01-how-to.md",
     "assets/img/1-how-to.png",
-    "_notes/Public/수업 중 질문 답변.md",
-    "_notes/Public/Hidden Note.md",
     "_notes/Public/Welcome to the garden.md",
-    "_notes/Public/Markdown Rendered.md",
-    "_notes/Public/Credits.md",
     "pages/404.md",
     "README.md"
   ]
