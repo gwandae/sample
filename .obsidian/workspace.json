@@ -148,17 +148,19 @@
   },
   "active": "d670762e03bc170e",
   "lastOpenFiles": [
-    "README.md",
-    "_notes/Public/Markdown Rendered.md",
-    "_notes/Public/Hidden Note.md",
-    "_notes/Public/Credits.md",
-    "_posts/2020-03-01-how-to.md",
-    "_posts/2020-03-01-features.md",
-    "assets/img/1-how-to.png",
-    "pages/posts.md",
     "pages/notes.md",
     "pages/lists.md",
     "pages/index.md",
-    "pages/404.md"
+    "_notes/Public/수업 중 질문 답변.md",
+    "_notes/Public/Markdown Rendered.md",
+    "_notes/Public/Hidden Note.md",
+    "_notes/Public/Credits.md",
+    "_notes/Public/Welcome to the garden.md",
+    "pages/posts.md",
+    "pages/404.md",
+    "_posts/2020-03-01-how-to.md",
+    "_posts/2020-03-01-features.md",
+    "README.md",
+    "assets/img/1-how-to.png"
   ]
 }
