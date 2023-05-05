@@ -7,4 +7,3 @@ permalink: /
 title: Jekyll Garden
 ---
 
-[[수업 중 질문 답변]]
